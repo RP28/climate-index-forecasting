@@ -1,12 +1,3 @@
-# 36120-26SP-AT2-26294153-experiments
-
-Experimentation repository for 36120 Advanced Machine Learning, Assessment Task 2:
-Machine Learning as a Service.
-
-Student: Ratnadeep Patra
-
-Student ID: 26294153
-
 ## Project Overview
 
 This repository contains the modelling work for two Sydney weather intelligence
@@ -14,11 +5,6 @@ services built from Open-Meteo historical weather observations:
 
 - Climate Comfort Index (CCI): regression target for 1, 2 and 3 days ahead.
 - Weather Hazard Category (WHC): multiclass classification target exactly 7 days ahead.
-
-The assignment brief requires an experimentation repository and a separate FastAPI
-deployment repository. This repository is the experimentation side: data acquisition,
-target creation, feature engineering, model development, evaluation, saved model
-artifacts and metadata prepared for serving.
 
 ## Business Goal
 
